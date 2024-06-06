@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "796745902913",
+    "project_id": "atoz-d961d",
+    "storage_bucket": "atoz-d961d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796745902913:android:78cb49bc4aa7e4a5a3cfc0",
+        "android_client_info": {
+          "package_name": "com.example.atoz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbosJUT2XVfgQaLRMC9scaayUriPvY4e4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/prime"
+            android:title="Prime"
+            android:icon="@drawable/baseline_prime_24"/>
+
+        <item
+            android:id="@+id/fashion"
+            android:title="Fashion"
+            android:icon="@drawable/baseline_fashion_24"/>
+
+        <item
+            android:id="@+id/electronics"
+            android:title="Electronics"
+            android:icon="@drawable/baseline_electronics_24"/>
+
+        <item
+            android:id="@+id/fresh"
+            android:title="Fresh"
+            android:icon="@drawable/baseline_lunch_dining_24"/>
+
+        <item
+            android:id="@+id/beauty"
+            android:title="Beauty"
+            android:icon="@drawable/baseline_beauty_24"/>
+
+        <item
+            android:id="@+id/furniture"
+            android:title="Furniture"
+            android:icon="@drawable/baseline_chair_24"/>
+
+    </group>
+
+</menu>
